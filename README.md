@@ -1,4 +1,4 @@
-# FP Coffee Problem 1: Dawkins' weasel
+# FP Coffee Problem 1: Dawkins' Weasel
 
 ## Introduction
 
