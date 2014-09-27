@@ -8,7 +8,7 @@ Watchmaker*. It is meant to demonstrate evolutionary systems by a process
 of combining random variation with selection. 
 
 The weasel problem is framed around the well known 
-[infinite monkey theorem](http://en.wikipedia.org/wiki/Infinite_monkey_theorem)
+[infinite monkey theorem](http://en.wikipedia.org/wiki/Infinite_monkey_theorem).
 
 Given a 28 character sequence the probability that the monkey will produce
 the sequence is quite low due to the sheer number of possible combinations of
