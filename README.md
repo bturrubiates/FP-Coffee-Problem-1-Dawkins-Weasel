@@ -34,8 +34,8 @@ selected to continue in the next generational step.
 
 ## Ouput 
 
-The generation number and the most fit string are printed after each
-generation step. Eventually the sequence converges on the target. 
+The generation number and the 'fittest' string are printed after each
+generational step. Eventually the sequence converges on the target. 
 
 Example:
 ```
