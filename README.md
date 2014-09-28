@@ -49,11 +49,11 @@ Generation 43:   METHINKS IT IS LIKE A WEASEL
 ```
 
 ## Notes
-A functional programming language should be used. There is no restriction on the
-language choice but functional concepts should be applied.
+There is no restriction on the language choice but functional concepts should 
+be applied.
 
-Feel free to modify the problem for increased complexity. The problem must implement
-the concepts of sexual reproduction, cumulative selection, and randomization. The
+Feel free to modify the problem for increased complexity. The problem may implement
+the concepts of reproduction, cumulative selection, and randomization. The
 implementation for those concepts are quite open to interpretation, but be ready
 to discuss your modifications.
 
