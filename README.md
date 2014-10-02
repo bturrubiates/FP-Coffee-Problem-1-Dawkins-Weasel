@@ -67,7 +67,7 @@ This repository is initially distributed to reveal problem of the week. It also
 hosts my personal solution. This solution is pretty barebones but it solves the
 weasel problem as described.
 
-It can be executed using the following command:
+It can be executed using the following commands:
 ```
 lein run
 lein run -- -g 1000 -m 0.05 -t "METHINKS IT IS LIKE A BADGER"
@@ -77,3 +77,5 @@ The -m option specifies the mutation rate.
 The -t specifies the target phrase.
 
 The default values are 100, 0.05, and "METHINKS IT IS LIKE A WEASEL"
+
+Note the -- between lein run and the parameters.
